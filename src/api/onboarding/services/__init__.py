@@ -1,1 +1,1 @@
-from src.api.onboarding.services.aws import router as aws_ob_router
+from src.api.onboarding.services.aws_ob import router as aws_ob_router
